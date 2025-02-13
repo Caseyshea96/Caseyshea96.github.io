@@ -3,7 +3,7 @@ My personal website
 
 ## Education
 
--Junior at UTK, GIST major
+-Student at UTK, GIST major
 
 
 ## Employment
